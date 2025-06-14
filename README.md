@@ -20,15 +20,4 @@ A multi-turn conversational AI assistant that helps users refine innovation idea
 **Groq API Powered**: Uses `llama3-8b-8192` from Groq's OpenAI-compatible endpoint for fast and affordable responses.
 
 
-## 📁 Folder Structure
-
-  innovation_agent/
-  ├── app.py # Main loop for user input and routing
-  ├── router.py # Classifies user queries
-  ├── memory_handler.py # Tracks chat history and idea session flag
-  ├── prompt_templates.py # Defines prompt structure
-  ├── groq_wrapper.py # Handles LLM API calls to Groq
-  ├── db_handler.py # Placeholder for Innovation DB queries
-  ├── .env # Secure API and credential config
-  └── requirements.txt # Python dependencies
 
