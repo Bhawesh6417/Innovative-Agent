@@ -20,6 +20,6 @@ A multi-turn conversational AI assistant that helps users refine innovation idea
 **Groq API Powered**: Uses `llama3-8b-8192` from Groq's OpenAI-compatible endpoint for fast and affordable responses.
 
 
-##**Output** :
+##Output :
 ![image](https://github.com/user-attachments/assets/c868befa-57cf-472c-8ede-db4af4f829f6)
 
